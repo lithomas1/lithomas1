@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![lithomas1's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lithomas1&show_icons=true)
 <!--
 **lithomas1/lithomas1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
